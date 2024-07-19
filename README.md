@@ -1,4 +1,5 @@
 Movies Dataset Exploration
+
 This repository contains the Python code and analysis for exploring a movies dataset. The goal of this exploration is to analyze various aspects of the dataset, including budget and gross correlations, missing data handling, and general statistics.
 Dataset Description
 The dataset includes the following columns:
@@ -32,12 +33,21 @@ General Statistics
 Various statistical measures were calculated to provide insights into the dataset, including:
 
 -Mean and median of numerical columns
+
 -Distribution of categorical columns
 
 Requirements
-Python 3.x,
-pandas,
-numpy,
-sklearn,
-matplotlib,
-seaborn,
+
+Python 3.x
+
+pandas
+
+numpy
+
+sklearn
+
+matplotlib
+
+seaborn.
+
+I hope you find this informative, Happy Coding! 
